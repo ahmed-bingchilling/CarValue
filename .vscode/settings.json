@@ -1,0 +1,7 @@
+
+{
+  "json.schemas": [],
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 4,
+  "prettier.useSeparateNodeModules": true
+}
